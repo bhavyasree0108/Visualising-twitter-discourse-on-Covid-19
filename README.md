@@ -27,7 +27,6 @@ Tools and Packages Used:
 
 Output Screenshots
 
-![newplot](https://user-images.githubusercontent.com/57038528/115099173-d171de00-9f51-11eb-8a26-525404c5284b.png)
 ![wordcount_bar](https://user-images.githubusercontent.com/57038528/115099282-991ecf80-9f52-11eb-971c-654da7de546a.png)
 ![wordcloud](https://user-images.githubusercontent.com/57038528/115099277-915f2b00-9f52-11eb-8b9d-c7309466007a.png)
 ![joint_cloud](https://user-images.githubusercontent.com/57038528/115099280-958b4880-9f52-11eb-845b-2a8e3daff46a.png)
