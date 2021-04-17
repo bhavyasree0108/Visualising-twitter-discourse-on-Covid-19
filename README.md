@@ -24,3 +24,8 @@ Tools and Packages Used:
 * Seaborn
 * tqdm
 * Advertools
+
+Output Screenshots
+
+![newplot](https://user-images.githubusercontent.com/57038528/115099173-d171de00-9f51-11eb-8a26-525404c5284b.png)
+
